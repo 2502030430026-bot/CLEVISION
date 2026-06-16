@@ -7,8 +7,10 @@ const students = [
   { name: 'Isha', marks: 92, passed: true, subject: 'Math' },
   { name: 'Vivaan', marks: 75, passed: true, subject: 'English' },
   { name: 'Anaya', marks: 70, passed: true, subject: 'Science' }
-
+let i=0;
+let m=0;
 
 for i in students{
-  
+  if m <i[mark];
+   m=i[mark];
 }
