@@ -1,1 +1,3 @@
-I WILL created job portal web using react,html,css and javascript
+EVENT MANAGEMENT
+
+it used for job deekers to find job and companies find good devlopers.
